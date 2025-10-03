@@ -131,6 +131,106 @@ const books = [
     in_stock: true,
     pages: 342,
     publisher: 'Thomas Cautley Newby'
+  },
+  {
+    title: "Crime and Punishment",
+    author: "Fyodor Dostoevsky",
+    genre: "Philosophical Fiction",
+    published_year: 1866,
+    price: 13.5,
+    in_stock: true,
+    pages: 671,
+    publisher: "The Russian Messenger"
+  },
+  {
+    title: "Jane Eyre",
+    author: "Charlotte Brontë",
+    genre: "Romance",
+    published_year: 1847,
+    price: 11.25,
+    in_stock: false,
+    pages: 500,
+    publisher: "Smith, Elder & Co."
+  },
+  {
+    title: "Great Expectations",
+    author: "Charles Dickens",
+    genre: "Classic",
+    published_year: 1861,
+    price: 10.0,
+    in_stock: true,
+    pages: 544,
+    publisher: "Chapman & Hall"
+  },
+  {
+    title: "Les Misérables",
+    author: "Victor Hugo",
+    genre: "Historical Fiction",
+    published_year: 1862,
+    price: 14.99,
+    in_stock: true,
+    pages: 1232,
+    publisher: "A. Lacroix, Verboeckhoven & Cie."
+  },
+  {
+    title: "The Odyssey",
+    author: "Homer",
+    genre: "Epic Poetry",
+    published_year: -700,
+    price: 9.5,
+    in_stock: true,
+    pages: 541,
+    publisher: "Ancient Greece"
+  },
+  {
+    title: "Don Quixote",
+    author: "Miguel de Cervantes",
+    genre: "Satire",
+    published_year: 1605,
+    price: 15.75,
+    in_stock: true,
+    pages: 982,
+    publisher: "Francisco de Robles"
+  },
+  {
+    title: "Fahrenheit 451",
+    author: "Ray Bradbury",
+    genre: "Dystopian",
+    published_year: 1953,
+    price: 10.99,
+    in_stock: false,
+    pages: 194,
+    publisher: "Ballantine Books"
+  },
+  {
+    title: "The Brothers Karamazov",
+    author: "Fyodor Dostoevsky",
+    genre: "Philosophical Novel",
+    published_year: 1880,
+    price: 14.25,
+    in_stock: true,
+    pages: 796,
+    publisher: "The Russian Messenger"
+  },
+  {
+    title: "Dracula",
+    author: "Bram Stoker",
+    genre: "Gothic Horror",
+    published_year: 1897,
+    price: 8.99,
+    in_stock: true,
+    pages: 418,
+    publisher: "Archibald Constable and Company"
+  },
+  {
+    title: "Frankenstein",
+    author: "Mary Shelley",
+    genre: "Science Fiction",
+    published_year: 1818,
+    price: 7.5,
+    in_stock: true,
+    pages: 280,
+    publisher: "Lackington, Hughes, Harding, Mavor & Jones"
   }
 ];
 

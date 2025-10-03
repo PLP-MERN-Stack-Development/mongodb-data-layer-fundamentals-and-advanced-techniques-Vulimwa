@@ -26,7 +26,7 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
   - Find books published after a certain year
   - Find books by a specific author
   - Update the price of a specific book
-  - Delete a book by its title
+  - Delete a book by its title 
 
 ### Task 3: Advanced Queries
 - Write a query to find books that are both in stock and published after 2010
@@ -59,7 +59,7 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
 
 ## ✅ Submission Instructions
 1. Accept the GitHub Classroom assignment invitation
-2. Clone your personal repository that was created by GitHub Classroom
+2. Clone your persona l repository that was created by GitHub Classroom
 3. Add the following files to your repository:
    - `insert_books.js` (with your modifications if any)
    - `queries.js` (containing all your MongoDB queries)
